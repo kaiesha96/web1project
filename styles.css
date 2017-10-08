@@ -1,0 +1,89 @@
+
+div{
+	border-radius: 5px;
+	clear: left;
+	float: left; 
+    margin-left: 300px;
+    margin-bottom: 50px;
+    width: 63%; 
+}
+
+#name{
+	font-family: Georgia, "Times New Roman";
+	text-align: left;
+	font-weight: bold;
+	font-style: italic;
+}
+
+img{
+	float: right;
+	margin: 0 0 10px 10px;
+	height: 200px;
+	width: 25%;
+	position: absolute;
+   	left: 900px;
+    border: solid grey;
+    padding: 10px;
+    background-color: lightblue;
+    transform: rotate(355deg);
+
+}
+
+
+.Education b{
+	float: left;
+	position: absolute;
+	left: 200px;
+	border-right: solid grey;
+	padding-right: 20px;
+	padding-bottom: 40px;
+}
+
+.Skills b{
+	float: left;
+	position: absolute;
+	left: 200px;
+	border-right: solid grey;
+	padding-right: 53px;
+	padding-bottom: 145px;
+}
+
+.Work b{
+	float: left;
+	text-align: left;
+	position: absolute;
+	left: 200px;
+	border-right: solid grey;
+	padding-right: 0px;
+	padding-bottom: 70px;
+	width: 88px;
+}
+
+.Hobbies b{
+	float: left;
+	position: absolute;
+	left:200px;
+	border-right: solid grey;
+	padding-right:34px;
+	padding-bottom:100px;
+}
+
+.References b{
+	float: left;
+	position: absolute;
+	left:200px;
+	border-right: solid grey;
+	padding-right:16px;
+	padding-bottom:100px;
+}
+/*.verticalLine{
+	width: 1px;
+	height: 30px;
+	background-color: black;
+	border-style: 6px;
+	left: 150px;
+	position: absolute;
+	
+	
+}*/
+
